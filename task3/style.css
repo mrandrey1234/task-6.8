@@ -1,6 +1,18 @@
+.container{
+  width: 200px;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 200px;
+  border: 6px solid black;
+  background: #333;
+  border-radius: 10px;
+}
+
 #trafficLight1, #trafficLight2, #trafficLight3 {
     width: 100px;
     height: 100px;
     border-radius: 50%;
     background: black;
+    margin: 10px 50px;
   }
