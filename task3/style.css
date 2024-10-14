@@ -1,0 +1,6 @@
+#trafficLight1, #trafficLight2, #trafficLight3 {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    background: black;
+  }
